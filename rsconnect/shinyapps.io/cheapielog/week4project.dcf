@@ -1,0 +1,12 @@
+name: week4project
+title: week4project
+username:
+account: cheapielog
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2591651
+bundleId: 3410665
+url: https://cheapielog.shinyapps.io/week4project/
+when: 1595220637.99936
+asMultiple: FALSE
+asStatic: FALSE
